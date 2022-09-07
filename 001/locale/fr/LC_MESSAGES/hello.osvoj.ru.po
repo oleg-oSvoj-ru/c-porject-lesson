@@ -1,0 +1,24 @@
+# French translations for PACKAGE package
+# Traductions francaises du paquet PACKAGE.
+# Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# U-OLEG\admin <oleg@osvoj.ru>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-07 20:49+0300\n"
+"PO-Revision-Date: 2022-09-07 20:49+0300\n"
+"Last-Translator: U-OLEG\\admin <oleg@osvoj.ru>\n"
+"Language-Team: French <traduc@traduc.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: hello.c:16
+#, c-format
+msgid "Hello world!!!\n"
+msgstr "Bonjour Le Monde!!!\n"
